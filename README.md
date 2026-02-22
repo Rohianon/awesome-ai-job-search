@@ -195,6 +195,12 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 
 ---
 
+## Support
+
+If you find this list useful, consider supporting its maintenance:
+
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20this%20list-F96854?logo=patreon&logoColor=white)](https://patreon.com/Rohianon)
+
 ## Contributing
 
 Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
