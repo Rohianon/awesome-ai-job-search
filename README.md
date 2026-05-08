@@ -35,6 +35,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [FlowCV](https://flowcv.com/) - Free resume builder with modern designs and AI content suggestions.
 - [Novoresume](https://novoresume.com/) - Resume builder with content optimizer and built-in ATS checker.
 - [Enhancv](https://enhancv.com/) - AI-powered resume builder focusing on showcasing achievements and impact.
+- [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates, ATS optimization, and job-description tailoring.
 
 ## ATS Optimization
 
