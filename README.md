@@ -170,6 +170,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [JobSwipe](https://github.com/Rohianon/jobswipe) - AI-powered job search automation with swipe UI, multi-LLM scoring, and auto-apply.
 - [JobSpy](https://github.com/Bunsly/JobSpy) - Python scraper for Indeed, LinkedIn, Glassdoor, and ZipRecruiter.
 - [LinkedRW](https://github.com/AymericCD/linkedrw) - Generate resume and personal website from your LinkedIn profile.
+- [Metis](https://github.com/chenlomis/metis) - Open-source CLI that scores job alerts against your profile with Claude, emails a ranked digest, tracks applications, and keeps local scoring traces for debugging.
 - [Resume Matcher](https://github.com/srbhr/Resume-Matcher) - Open-source ATS that compares resumes with job descriptions using NLP.
 - [Auto Jobs Applier](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - AI-powered bot to auto-apply to LinkedIn jobs.
 - [OpenResume](https://github.com/xitanggg/open-resume) - Open-source resume builder with real-time preview and ATS-friendly output.
