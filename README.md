@@ -78,6 +78,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 ## Auto-Apply Tools
 
 - [LazyApply](https://lazyapply.com/) - Automates job applications on LinkedIn, Indeed, and Glassdoor.
+- [Jobloo](https://jobloo.co) - An AI-powered job application platform that creates tailored resumes and cover letters for each job description and automates applications.
 - [Sonara](https://sonara.ai/) - AI agent that finds and auto-applies to relevant jobs while you sleep.
 - [LoopCV](https://www.loopcv.pro/) - Automated job application platform — upload resume, set preferences, auto-apply.
 - [Simplify](https://simplify.jobs/) - One-click autofill for job applications across the web.
