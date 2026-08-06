@@ -38,6 +38,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 
 ## ATS Optimization
 
+- [Resume Roaster](https://resume.roastlabai.com/) - Free AI resume critic that gives instant, brutally honest feedback on ATS keyword gaps, weak bullet points, and what a recruiter would actually flag. No account needed for the first roast.
 - [Jobscan](https://www.jobscan.co/) - Compare your resume against job descriptions and get an ATS match score.
 - [Resume Worded](https://resumeworded.com/) - AI-powered resume and LinkedIn review with line-by-line feedback.
 - [SkillSyncer](https://skillsyncer.com/) - Match your resume keywords against job descriptions to beat ATS filters.
