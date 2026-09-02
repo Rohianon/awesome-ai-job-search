@@ -68,6 +68,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 
 ## AI-Powered Job Matching
 
+- [ResuMakeAi](https://www.resumakeai.com/) - Free resume builder that scores your resume against real, live job postings and includes a no-signup ATS checker.
 - [Otta](https://otta.com/) - AI matches you to jobs based on preferences, skills, and experience.
 - [Hired](https://hired.com/) - Marketplace where companies apply to you — candidates set salary expectations upfront.
 - [Pyjama Jobs](https://www.pyjamajobs.com/) - AI-driven matching for remote positions.
