@@ -103,6 +103,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Yoodli](https://yoodli.ai/) - AI speech coach that analyzes filler words, pacing, and clarity.
 - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/) - Free AI-powered interview practice by Google.
 - [Huru](https://www.huru.ai/) - AI interview coach with 1000+ industry-specific questions.
+- [speaking.app](https://speaking.app/) - AI interview and speech practice with feedback on pacing, filler words, structure, and clarity.
 
 ## Salary & Compensation
 
