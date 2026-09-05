@@ -99,10 +99,11 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 ## AI Mock Interview Tools
 
 - [Final Round AI](https://www.finalroundai.com/) - AI-powered mock interviews with real-time feedback and company-specific prep.
-- [InterviewBuddy](https://interviewbuddy.net/) - AI and expert-led mock interviews with performance analytics.
-- [Yoodli](https://yoodli.ai/) - AI speech coach that analyzes filler words, pacing, and clarity.
 - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/) - Free AI-powered interview practice by Google.
 - [Huru](https://www.huru.ai/) - AI interview coach with 1000+ industry-specific questions.
+- [InterviewBuddy](https://interviewbuddy.net/) - AI and expert-led mock interviews with performance analytics.
+- [OneWayPrep](https://onewayprep.app/) - Private timed practice for one-way video interviews with local recording and free transcript-based feedback.
+- [Yoodli](https://yoodli.ai/) - AI speech coach that analyzes filler words, pacing, and clarity.
 
 ## Salary & Compensation
 
