@@ -43,6 +43,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [SkillSyncer](https://skillsyncer.com/) - Match your resume keywords against job descriptions to beat ATS filters.
 - [Huntr Resume Tailor](https://huntr.co/) - AI that adapts your resume to specific job descriptions automatically.
 - [Careerflow Resume Scanner](https://www.careerflow.ai/) - Free ATS scanner with keyword matching and formatting checks.
+- [SecondRound](https://secondround.app/?utm_source=github&utm_medium=directory&utm_campaign=directories-2026-09) - Free resume scan that returns a 0 to 100 score, the line a screener trips on, and a plain rewrite, with no sign-up to see it.
 
 ## AI Cover Letter Generators
 
