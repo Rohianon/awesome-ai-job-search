@@ -171,7 +171,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [JobSpy](https://github.com/Bunsly/JobSpy) - Python scraper for Indeed, LinkedIn, Glassdoor, and ZipRecruiter.
 - [LinkedRW](https://github.com/AymericCD/linkedrw) - Generate resume and personal website from your LinkedIn profile.
 - [Resume Matcher](https://github.com/srbhr/Resume-Matcher) - Open-source ATS that compares resumes with job descriptions using NLP.
-- [Auto Jobs Applier](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - AI-powered bot to auto-apply to LinkedIn jobs.
+- [AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent that browses, clicks, types and reads web pages from plain-English instructions, shipped as an MCP server for Claude Code, Codex and Gemini CLI and as a web UI.
 - [OpenResume](https://github.com/xitanggg/open-resume) - Open-source resume builder with real-time preview and ATS-friendly output.
 
 ## Books & Guides
