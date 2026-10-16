@@ -74,6 +74,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Careerflow](https://www.careerflow.ai/) - AI job tracker and matcher with CRM-like features.
 - [Wonsulting](https://www.wonsulting.com/) - AI career tools including resume building, networking, and job matching.
 - [Crossover](https://www.crossover.com/) - AI-matched remote jobs with standardized skill assessments.
+- [CareJobs.Now](https://carejobs.now/) - Free AI job search for US healthcare workers that matches plain-language job descriptions to 170,000+ hospital and clinic jobs with posted pay.
 
 ## Auto-Apply Tools
 
