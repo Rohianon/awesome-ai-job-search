@@ -84,6 +84,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Massive](https://www.massive.app/) - AI agent that applies to jobs on your behalf with personalized applications.
 - [JobSwipe](https://github.com/Rohianon/jobswipe) - Open-source AI-powered job search with Tinder-style swipe UI and auto-apply.
 - [Botjobs](https://botjobs.io/) - AI that submits tailored applications to tech jobs automatically.
+- [NeverApply](https://neverapply.co/) - AI job-search agent that matches you to roles, tailors your resume for each one, and auto-applies, with a free plan available.
 
 ## Interview Preparation
 
