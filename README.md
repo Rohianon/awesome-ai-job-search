@@ -35,6 +35,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [FlowCV](https://flowcv.com/) - Free resume builder with modern designs and AI content suggestions.
 - [Novoresume](https://novoresume.com/) - Resume builder with content optimizer and built-in ATS checker.
 - [Enhancv](https://enhancv.com/) - AI-powered resume builder focusing on showcasing achievements and impact.
+- [OpenJobs](https://openjobs.thecompound.tech) - OpenJobs keeps your roles, projects, achievements, stories and skills in one experience bank; it tailors each resume and each application answer from that bank for the job.
 
 ## ATS Optimization
 
