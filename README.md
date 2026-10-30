@@ -42,6 +42,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Resume Worded](https://resumeworded.com/) - AI-powered resume and LinkedIn review with line-by-line feedback.
 - [SkillSyncer](https://skillsyncer.com/) - Match your resume keywords against job descriptions to beat ATS filters.
 - [Huntr Resume Tailor](https://huntr.co/) - AI that adapts your resume to specific job descriptions automatically.
+- [JobAny](https://jobany.work/) - Checks a resume against one job post, shows exactly what the ATS and recruiter will miss, and fixes it with a built-in editor; a Chrome extension agent fills out the application for you to review and send.
 - [Careerflow Resume Scanner](https://www.careerflow.ai/) - Free ATS scanner with keyword matching and formatting checks.
 
 ## AI Cover Letter Generators
