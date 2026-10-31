@@ -85,6 +85,8 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [JobSwipe](https://github.com/Rohianon/jobswipe) - Open-source AI-powered job search with Tinder-style swipe UI and auto-apply.
 - [Botjobs](https://botjobs.io/) - AI that submits tailored applications to tech jobs automatically.
 
+- [Autojob](https://autojob.org/) - Job board with 20,000+ jobs and an auto-apply feature.
+
 ## Interview Preparation
 
 - [LeetCode](https://leetcode.com/) - The standard for technical interview prep with 2000+ coding problems.
