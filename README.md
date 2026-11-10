@@ -173,6 +173,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Resume Matcher](https://github.com/srbhr/Resume-Matcher) - Open-source ATS that compares resumes with job descriptions using NLP.
 - [Auto Jobs Applier](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - AI-powered bot to auto-apply to LinkedIn jobs.
 - [OpenResume](https://github.com/xitanggg/open-resume) - Open-source resume builder with real-time preview and ATS-friendly output.
+- [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) - Open-source agent skill that tailors a resume to a JD using only experience the candidate has confirmed.
 
 ## Books & Guides
 
