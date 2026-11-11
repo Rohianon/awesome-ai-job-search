@@ -155,6 +155,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Careerflow Extension](https://www.careerflow.ai/) - LinkedIn profile optimizer and job tracker extension.
 - [LinkedIn Job Search Assistant](https://chrome.google.com/webstore) - Various extensions for enhancing LinkedIn job search.
 - [Glassdoor Enhancement Suite](https://chrome.google.com/webstore) - Extensions that add salary and review data to job listings.
+- [OffLadder CV](https://chromewebstore.google.com/detail/gldilkfnnfkjohfianhhiekbllomfpmk) - Chrome side panel that checks a job post against your CV, tailors the CV and cover letter to it, and fills the application form for you to review and submit.
 
 ## Tracking & Organization
 
