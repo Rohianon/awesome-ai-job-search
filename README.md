@@ -65,6 +65,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Himalayas](https://himalayas.app/) - Remote job board with company profiles and time zone filters.
 - [Hacker News: Who's Hiring](https://hnhiring.com/) - Monthly HN hiring threads aggregated and searchable.
 - [BuiltIn](https://builtin.com/) - Tech job board with company culture profiles for major US tech hubs.
+- [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings.
 
 ## AI-Powered Job Matching
 
