@@ -53,6 +53,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 
 ## Job Aggregators & Search Engines
 
+- [caio.pro](https://caio.pro/jobs.html) - Browse AI and data leadership roles, including Head of AI and Chief AI Officer positions.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/) - The largest professional job board with AI-powered recommendations.
 - [Indeed](https://www.indeed.com/) - World's largest job aggregator with resume matching.
 - [Glassdoor](https://www.glassdoor.com/) - Job board with company reviews, salary data, and interview experiences.
