@@ -190,6 +190,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Open dataset of which ATS each of 738 large employers uses, with 704 portal-verified apply-host records.
 - [Auto Jobs Applier](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - AI-powered bot to auto-apply to LinkedIn jobs.
 - [OpenResume](https://github.com/xitanggg/open-resume) - Open-source resume builder with real-time preview and ATS-friendly output.
+- [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) - Open-source agent skill that tailors a resume to a JD using only experience the candidate has confirmed.
 
 ## Books & Guides
 
