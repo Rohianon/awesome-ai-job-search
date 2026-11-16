@@ -48,6 +48,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [JobAny](https://jobany.work/) - Checks a resume against one job post, shows exactly what the ATS and recruiter will miss, and fixes it with a built-in editor; a Chrome extension agent fills out the application for you to review and send.
 - [Careerflow Resume Scanner](https://www.careerflow.ai/) - Free ATS scanner with keyword matching and formatting checks.
 - [JDMatcher](https://resumejdmatcher.com/) - Paste a job description and resume to get an instant ATS match score and AI-tailored rewrite, no signup required for the score.
+- [CheckATS](https://checkats.app/) - Preview how an ATS may extract your resume text, flag parsing and formatting issues, and compare keywords with a job description.
 
 ## AI Cover Letter Generators
 
