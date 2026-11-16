@@ -35,14 +35,19 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [FlowCV](https://flowcv.com/) - Free resume builder with modern designs and AI content suggestions.
 - [Novoresume](https://novoresume.com/) - Resume builder with content optimizer and built-in ATS checker.
 - [Enhancv](https://enhancv.com/) - AI-powered resume builder focusing on showcasing achievements and impact.
+- [JobEmerge](https://www.jobemerge.work) - AI career workspace with a free tier for resume building, job-fit analysis, text-based interview practice, and application tracking.
 
 ## ATS Optimization
 
+- [Resume Roaster](https://resume.roastlabai.com/) - Free AI resume critic that gives instant, brutally honest feedback on ATS keyword gaps, weak bullet points, and what a recruiter would actually flag. No account needed for the first roast.
 - [Jobscan](https://www.jobscan.co/) - Compare your resume against job descriptions and get an ATS match score.
 - [Resume Worded](https://resumeworded.com/) - AI-powered resume and LinkedIn review with line-by-line feedback.
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker plus an open State of ATS 2026 dataset covering 738 employers (704 portal-verified).
 - [SkillSyncer](https://skillsyncer.com/) - Match your resume keywords against job descriptions to beat ATS filters.
 - [Huntr Resume Tailor](https://huntr.co/) - AI that adapts your resume to specific job descriptions automatically.
+- [JobAny](https://jobany.work/) - Checks a resume against one job post, shows exactly what the ATS and recruiter will miss, and fixes it with a built-in editor; a Chrome extension agent fills out the application for you to review and send.
 - [Careerflow Resume Scanner](https://www.careerflow.ai/) - Free ATS scanner with keyword matching and formatting checks.
+- [JDMatcher](https://resumejdmatcher.com/) - Paste a job description and resume to get an instant ATS match score and AI-tailored rewrite, no signup required for the score.
 - [CheckATS](https://checkats.app/) - Preview how an ATS may extract your resume text, flag parsing and formatting issues, and compare keywords with a job description.
 
 ## AI Cover Letter Generators
@@ -54,6 +59,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 
 ## Job Aggregators & Search Engines
 
+- [caio.pro](https://caio.pro/jobs.html) - Browse AI and data leadership roles, including Head of AI and Chief AI Officer positions.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/) - The largest professional job board with AI-powered recommendations.
 - [Indeed](https://www.indeed.com/) - World's largest job aggregator with resume matching.
 - [Glassdoor](https://www.glassdoor.com/) - Job board with company reviews, salary data, and interview experiences.
@@ -66,29 +72,37 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Himalayas](https://himalayas.app/) - Remote job board with company profiles and time zone filters.
 - [Hacker News: Who's Hiring](https://hnhiring.com/) - Monthly HN hiring threads aggregated and searchable.
 - [BuiltIn](https://builtin.com/) - Tech job board with company culture profiles for major US tech hubs.
+- [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings.
 
 ## AI-Powered Job Matching
 
+- [ResuMakeAi](https://www.resumakeai.com/) - Free resume builder that scores your resume against real, live job postings and includes a no-signup ATS checker.
 - [Otta](https://otta.com/) - AI matches you to jobs based on preferences, skills, and experience.
 - [Hired](https://hired.com/) - Marketplace where companies apply to you — candidates set salary expectations upfront.
 - [Pyjama Jobs](https://www.pyjamajobs.com/) - AI-driven matching for remote positions.
 - [Careerflow](https://www.careerflow.ai/) - AI job tracker and matcher with CRM-like features.
 - [Wonsulting](https://www.wonsulting.com/) - AI career tools including resume building, networking, and job matching.
 - [Crossover](https://www.crossover.com/) - AI-matched remote jobs with standardized skill assessments.
+- [CareJobs.Now](https://carejobs.now/) - Free AI job search for US healthcare workers that matches plain-language job descriptions to 170,000+ hospital and clinic jobs with posted pay.
 
 ## Auto-Apply Tools
 
 - [LazyApply](https://lazyapply.com/) - Automates job applications on LinkedIn, Indeed, and Glassdoor.
+- [Jobloo](https://jobloo.co) - An AI-powered job application platform that creates tailored resumes and cover letters for each job description and automates applications.
 - [Sonara](https://sonara.ai/) - AI agent that finds and auto-applies to relevant jobs while you sleep.
 - [LoopCV](https://www.loopcv.pro/) - Automated job application platform — upload resume, set preferences, auto-apply.
 - [Simplify](https://simplify.jobs/) - One-click autofill for job applications across the web.
 - [Massive](https://www.massive.app/) - AI agent that applies to jobs on your behalf with personalized applications.
 - [JobSwipe](https://github.com/Rohianon/jobswipe) - Open-source AI-powered job search with Tinder-style swipe UI and auto-apply.
 - [Botjobs](https://botjobs.io/) - AI that submits tailored applications to tech jobs automatically.
+- [NeverApply](https://neverapply.co/) - AI job-search agent that matches you to roles, tailors your resume for each one, and auto-applies, with a free plan available.
+
+- [Autojob](https://autojob.org/) - Job board with 20,000+ jobs and an auto-apply feature.
 
 ## Interview Preparation
 
 - [LeetCode](https://leetcode.com/) - The standard for technical interview prep with 2000+ coding problems.
+- - [Luna Interview](https://lunainterview.xyz/) - Chrome side-panel interview copilot that suggests answers from your own notes during Meet or Zoom.
 - [NeetCode](https://neetcode.io/) - Curated roadmap of LeetCode problems organized by pattern.
 - [AlgoExpert](https://www.algoexpert.io/) - 160 hand-picked coding interview questions with video explanations.
 - [Interviewing.io](https://interviewing.io/) - Anonymous mock interviews with engineers from top companies.
@@ -104,6 +118,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Yoodli](https://yoodli.ai/) - AI speech coach that analyzes filler words, pacing, and clarity.
 - [Google Interview Warmup](https://grow.google/certificates/interview-warmup/) - Free AI-powered interview practice by Google.
 - [Huru](https://www.huru.ai/) - AI interview coach with 1000+ industry-specific questions.
+- [speaking.app](https://speaking.app/) - AI interview and speech practice with feedback on pacing, filler words, structure, and clarity.
 
 ## Salary & Compensation
 
@@ -156,8 +171,11 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Careerflow Extension](https://www.careerflow.ai/) - LinkedIn profile optimizer and job tracker extension.
 - [LinkedIn Job Search Assistant](https://chrome.google.com/webstore) - Various extensions for enhancing LinkedIn job search.
 - [Glassdoor Enhancement Suite](https://chrome.google.com/webstore) - Extensions that add salary and review data to job listings.
+- [OffLadder CV](https://chromewebstore.google.com/detail/gldilkfnnfkjohfianhhiekbllomfpmk) - Chrome side panel that checks a job post against your CV, tailors the CV and cover letter to it, and fills the application form for you to review and submit.
+
 
 ## Tracking & Organization
+- [Keel](https://github.com/KeelDev-tech/keel) - Open-core, self-hosted job-application autopilot that refuses to lie — automates discovery, tracking, and materials with a human gate on every application.
 
 - [Huntr](https://huntr.co/) - Visual kanban board for organizing your job search pipeline.
 - [Teal Job Tracker](https://www.tealhq.com/) - CRM for job seekers — track applications, contacts, and follow-ups.
@@ -171,9 +189,12 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [JobSwipe](https://github.com/Rohianon/jobswipe) - AI-powered job search automation with swipe UI, multi-LLM scoring, and auto-apply.
 - [JobSpy](https://github.com/Bunsly/JobSpy) - Python scraper for Indeed, LinkedIn, Glassdoor, and ZipRecruiter.
 - [LinkedRW](https://github.com/AymericCD/linkedrw) - Generate resume and personal website from your LinkedIn profile.
+- [Metis](https://github.com/chenlomis/metis) - Open-source CLI that scores job alerts against your profile with Claude, emails a ranked digest, tracks applications, and keeps local scoring traces for debugging.
 - [Resume Matcher](https://github.com/srbhr/Resume-Matcher) - Open-source ATS that compares resumes with job descriptions using NLP.
+- [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Open dataset of which ATS each of 738 large employers uses, with 704 portal-verified apply-host records.
 - [Auto Jobs Applier](https://github.com/feder-cr/Auto_Jobs_Applier_AIHawk) - AI-powered bot to auto-apply to LinkedIn jobs.
 - [OpenResume](https://github.com/xitanggg/open-resume) - Open-source resume builder with real-time preview and ATS-friendly output.
+- [resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) - Open-source agent skill that tailors a resume to a JD using only experience the candidate has confirmed.
 
 ## Books & Guides
 
