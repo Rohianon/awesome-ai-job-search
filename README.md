@@ -162,6 +162,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Lever Postings API](https://hire.lever.co/developer/documentation) - Pull job listings from companies using Lever ATS.
 - [The Muse API](https://www.themuse.com/developers/api/v2) - Job listings with company profiles and office photos.
 - [Arbeitnow API](https://arbeitnow.com/api) - Free job board API with remote and international listings.
+- [Google Jobs Scraper (Apify)](https://apify.com/johnvc/Google-Jobs-Scraper) - Pay-per-result API that returns Google Jobs listings as JSON, with title, company, location, salary and apply links, for any search query and country.
 
 ## Browser Extensions
 
