@@ -97,6 +97,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [NeverApply](https://neverapply.co/) - AI job-search agent that matches you to roles, tailors your resume for each one, and auto-applies, with a free plan available.
 
 - [Autojob](https://autojob.org/) - Job board with 20,000+ jobs and an auto-apply feature.
+- [Oaki AI](https://www.oaki.io/?utm_source=awesome-ai-job-search&utm_medium=github) - Finds jobs on company career sites that fit your resume, tailors the resume and form answers for each one, and applies for you on its higher paid plans.
 
 ## Interview Preparation
 
