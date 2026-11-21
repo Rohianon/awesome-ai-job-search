@@ -72,6 +72,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Hacker News: Who's Hiring](https://hnhiring.com/) - Monthly HN hiring threads aggregated and searchable.
 - [BuiltIn](https://builtin.com/) - Tech job board with company culture profiles for major US tech hubs.
 - [HeyRole](https://heyrole.ai/) - Remote job board with location and role filters, an AI job-search assistant, and links to original postings.
+- [Jobs by FoundRole](https://www.foundrole.com/ai-search-mcp) - Search job listings from employer career pages in ChatGPT or Claude, compare openings, and track applications.
 
 ## AI-Powered Job Matching
 
