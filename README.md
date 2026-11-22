@@ -55,6 +55,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [CoverDoc.ai](https://coverdoc.ai/) - AI cover letter generator that customizes to each application.
 - [Cover Letter AI](https://coverletterai.app/) - GPT-powered cover letters based on your resume and target job.
 - [Grammarly](https://www.grammarly.com/) - AI writing assistant that helps polish cover letters and emails.
+- [EuroJobs.ai](https://eurojobs.ai/) - Tailors your CV and cover letter to a specific IT job in Europe and removes any sentence your original CV does not support.
 
 ## Job Aggregators & Search Engines
 
