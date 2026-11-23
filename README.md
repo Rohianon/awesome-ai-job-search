@@ -36,6 +36,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Novoresume](https://novoresume.com/) - Resume builder with content optimizer and built-in ATS checker.
 - [Enhancv](https://enhancv.com/) - AI-powered resume builder focusing on showcasing achievements and impact.
 - [JobEmerge](https://www.jobemerge.work) - AI career workspace with a free tier for resume building, job-fit analysis, text-based interview practice, and application tracking.
+- [Folium](https://foliumcv.com/) - Free resume builder in 23 languages with PDF and Word download without an account, and AI tailoring to a job posting with a free account.
 
 ## ATS Optimization
 
