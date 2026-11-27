@@ -83,6 +83,7 @@ The job market is evolving fast — AI tools can now write your resume, optimize
 - [Wonsulting](https://www.wonsulting.com/) - AI career tools including resume building, networking, and job matching.
 - [Crossover](https://www.crossover.com/) - AI-matched remote jobs with standardized skill assessments.
 - [CareJobs.Now](https://carejobs.now/) - Free AI job search for US healthcare workers that matches plain-language job descriptions to 170,000+ hospital and clinic jobs with posted pay.
+- [Elk Jobs](https://elkjobs.com/) - US job search that lists openings from employers' own career pages and scores your resume's fit for each one, with a free tier.
 
 ## Auto-Apply Tools
 
